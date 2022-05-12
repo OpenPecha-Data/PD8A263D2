@@ -12,3 +12,8 @@ source_metadata:
       parent: Grammar
 created_at: '2022-03-01T02:01:03.543861'
 last_modified_at: '2022-03-01T02:01:03.543863'
+statistics:
+  total_words: 707
+  total_non_words: 124
+quality:
+  non_words_ratio: 0.18
